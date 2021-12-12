@@ -1,6 +1,5 @@
 «# Once Upon a Time»
 ce projet est destiné à tester git
-<<<<<<< HEAD
 
 == Chapitre 01 - le magasin
 
